@@ -17,7 +17,7 @@ juicy details
 
 ## Person D:
 
-Person D should modify content here.
+Hi Garden Club!
 
 ## Person E:
 
