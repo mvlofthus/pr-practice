@@ -13,7 +13,7 @@ Person A should modify content here.
 
 ## Person C:
 
-Person C should modify content here.
+juicy details
 
 ## Person D:
 
