@@ -16,7 +16,7 @@ Person C should modify content here.
 
 ## Person D:
 
-Person D should modify content here.
+Hi Garden Club!
 
 ## Person E:
 
