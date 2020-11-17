@@ -8,7 +8,8 @@ Person A should modify content here.
 
 ## Person B:
 
-Person B should modify content here.
+1/4 cup spiced cider + 1 pouch of oolong tea + 1 lemon wedge, juice squeezed in + fresh ginger root
+^ a recipe for the fall <3 
 
 ## Person C:
 
